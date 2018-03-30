@@ -1,8 +1,3 @@
-#  Makefile 
-#  Auteur : Farès BELHADJ
-#  Email  : amsi@ai.univ-paris8.fr
-#  Date   : 29/01/2017
-
 SHELL = /bin/sh
 # définition des commandes utilisées
 CC = gcc
