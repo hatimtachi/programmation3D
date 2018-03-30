@@ -1,8 +1,6 @@
 /*!\file window.c
  *
- * \brief Bruit de Perlin appliqué en GPU. Nécessite la préparation de
- * données et envoi sous forme de texture.
- * \author Farès BELHADJ, amsi@ai.univ-paris8.fr 
+ * \author Farès BELHADJ, hatim tachi 
  * \date March 3 2017
  */
 #include <GL4D/gl4dummies.h>
