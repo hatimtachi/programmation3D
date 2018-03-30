@@ -1,7 +1,5 @@
 /*!\file assimp.h
- *
- * \brief fonctionalités pour utilisation de lib Assimp sous GL4Dummies.
- * \author Farès BELHADJ, amsi@ai.univ-paris8.fr
+ * \author FarÃ¨s BELHADJ, hatim tachi
  * \date February 14, 2017
  */
 
