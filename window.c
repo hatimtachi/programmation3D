@@ -1,10 +1,6 @@
 /*!\file window.c
  *
- * \brief G�n�ration de paysage fractal � l'aide de l'algorithme de
- * d�placement des milieux. Un algorithme de midpoint displacement est
- * propos� dans GL4Dummies : le Triangle-Edge.
- *
- * \author Far�s BELHADJ, amsi@ai.univ-paris8.fr
+ * \author Far�s BELHADJ, hatim tachi
  * \date March 07 2017
  */
 
