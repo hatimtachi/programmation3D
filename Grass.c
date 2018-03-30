@@ -1,13 +1,5 @@
 /*!\file assimp.c
- *
- * \brief utilisation de GL4Dummies et Lib Assimp pour chargement de
- * sc�nes.
- *
- * Modification de l'exemple fourni par lib Assimp utilisant GL < 3 et
- * GLUT et upgrade avec utilisation des VAO/VBO et matrices et shaders
- * GL4dummies.
- *
- * \author Vincent Boyer et Far�s Belhadj {boyer, amsi}@ai.univ-paris8.fr
+ * \author Vincent Boyer et Far�s Belhadj , Tachi Hatim
  * \date February 14 2017
  */
 
